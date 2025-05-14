@@ -8,7 +8,6 @@ A modern, visually appealing personal portfolio website built using the **MERN s
 - ⚡ Fast and responsive UI with smooth animations
 - 🌐 Built with React.js for the frontend
 - 🔧 Backend using Node.js and Express.js
-- 💾 MongoDB integration for dynamic content (optional if used)
 - ☁️ Deployed on Netlify
 - 📱 Fully responsive design, optimized for mobile and desktop
 
