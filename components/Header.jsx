@@ -22,7 +22,7 @@ const Header = () => {
     initial={{y: -30, opacity: 0}}
     whileInView={{y: 0, opacity: 1}}
     transition={{duration: 0.8, delay: 0.5}}
-    className='text-6xl sm:text-7xl lg:text-[55px] font-Ovo'>
+    className='text-4xl sm:text-7xl lg:text-[45px] font-Ovo'>
         Computer Science Graduate based in Hyderabad, India.</motion.h1>
 
         <motion.p

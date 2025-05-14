@@ -41,7 +41,7 @@ const About = ({ isDarkMode }) => {
                     transition={{ duration: 0.6, delay: 0.8 }}
                     className='flex-1'>
                     <p className='mb-10 max-w-2xl font-Ovo'
-                    >Computer Science Graduate from GITAM University with an 8.2 CGPA, based in Hyderabad, India. Full-Stack Developer with hands-on experience in AWS Cloud, Python, Java, and MySQL. Passionate about Artificial Intelligence & Cloud.</p>
+                    >Computer Science Graduate from GITAM University, 2025 with an 8.2 CGPA, based in Hyderabad, India. Aspiring Software Developer with hands-on experience in AWS Cloud, Python, Java, and MySQL. Passionate about Artificial Intelligence & Cloud.</p>
 
                     <motion.ul
                         initial={{ opacity: 0 }}
