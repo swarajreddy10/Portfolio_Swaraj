@@ -4,13 +4,13 @@ import { assets, serviceData } from '@/assets/assets';
 import { motion } from "framer-motion"; // corrected from motion/react
 import Image from 'next/image';
 
-const Services = () => {
+const Accomplishemnts = () => {
     return (
         <motion.div
             initial={{ opacity: 0 }}
             whileInView={{ opacity: 1 }}
             transition={{ duration: 1 }}
-            id="services" className='w-full px-[12%] py-10 scroll-mt-20'>
+            id="Accomplishemnts" className='w-full px-[12%] py-10 scroll-mt-20'>
 
             <motion.h4
                 initial={{ y: -20, opacity: 0 }}
@@ -60,4 +60,4 @@ const Services = () => {
     )
 }
 
-export default Services;
+export default Accomplishemnts;
