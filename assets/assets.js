@@ -83,7 +83,7 @@ export const serviceData = [
 export const infoList = [
     { icon: assets.code_icon, iconDark: assets.code_icon_dark, title: 'Languages', description: 'Java, Python, C, JavaScript, HTML, CSS' },
     { icon: assets.edu_icon, iconDark: assets.edu_icon_dark, title: 'Education', description: 'B.Tech in Computer Science - GITAM University, 2025' },
-    { icon: assets.project_icon, iconDark: assets.project_icon_dark, title: 'Projects', description: 'Developed 6+ major projects including cloud, AI-ML, and web apps' }
+    { icon: assets.project_icon, iconDark: assets.project_icon_dark, title: 'Projects', description: 'Developed 4+ major projects including cloud, AI-ML, and web apps' }
 ];
 
 export const toolsData = [
