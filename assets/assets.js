@@ -66,10 +66,10 @@ export const workData = [
         link: 'https://github.com/swarajreddy10/Stock_Prediction_Final'
     },
     {
-        title: 'Cloud/Devops Project',
-        description: 'working on it',
+        title: 'RAG Web App with LangChain',
+        description: 'Generative AI',
         bgImage: '/work-4.png',
-        link: ''
+        link: 'https://github.com/swarajreddy10/Retrieval-Augmented-Generation--Webpage'
     },
 ];
 
