@@ -31,7 +31,7 @@ const Accomplishemnts = () => {
                 whileInView={{ opacity: 1 }}
                 transition={{ delay: 0.7, duration: 0.5 }}
                 className='text-center max-w-2xl mx-auto mt-5 mb-12 font-Ovo'>
-                I am a Computer Science Graduate from GITAM University with hands-on experience in cloud computing, full-stack web development, and AI-powered applications. I build scalable, secure, and intelligent solutions using technologies like AWS, MERN stack, and TensorFlow.
+                I am a Computer Science Graduate from GITAM University with hands-on experience in cloud computing, full-stack web development, and AI-powered applications. I have successfully built scalable, secure, and intelligent solutions using technologies like AWS, React.js, Node.js.
             </motion.p>
 
             <motion.div

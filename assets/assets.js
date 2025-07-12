@@ -74,16 +74,16 @@ export const workData = [
 ];
 
 export const serviceData = [
-    { icon: assets.web_icon, title: 'Full Stack Development', description: 'Modern, responsive web applications using MERN stack and REST APIs.', link: '' },
-    { icon: assets.mobile_icon, title: 'Cloud & DevOps', description: 'AWS, Google Cloud Docker, CI/CD pipelines, serverless architectures, and infrastructure automation.', link: '' },
-    { icon: assets.ui_icon, title: 'AI/ML Solutions', description: 'Deploying ML models with TensorFlow and Flask for real-time inference and scalability.', link: '' },
-    { icon: assets.graphics_icon, title: 'Database Engineering', description: 'Design and manage SQL & NoSQL databases including MySQL, PostgreSQL, and DynamoDB.', link: '' },
+    { icon: assets.web_icon, title: 'Full Stack Development', description: 'Modern, responsive web applications using React and Node.js stack (You\'re already here😉).', link: '' },
+    { icon: assets.mobile_icon, title: 'Cloud & DevOps', description: 'Expertise in AWS, Google Cloud, Docker, CI/CD pipelines, serverless architectures.', link: '' },
+    { icon: assets.ui_icon, title: 'AI/ML', description: 'Deploying ML models with TensorFlow and Flask for real-time inference and scalable solutions.', link: '' },
+    { icon: assets.graphics_icon, title: 'Database Engineering', description: 'Design and management of SQL & NoSQL databases including MySQL and MongoDB.', link: '' },
 ];
 
 export const infoList = [
-    { icon: assets.code_icon, iconDark: assets.code_icon_dark, title: 'Languages', description: 'Java, Python, C, JavaScript, HTML, CSS' },
+    { icon: assets.code_icon, iconDark: assets.code_icon_dark, title: 'Tech Stack', description: 'Java, Python, React, AWS, Docker' },
     { icon: assets.edu_icon, iconDark: assets.edu_icon_dark, title: 'Education', description: 'B.Tech in Computer Science - GITAM University, 2025' },
-    { icon: assets.project_icon, iconDark: assets.project_icon_dark, title: 'Projects', description: 'Developed 4+ major projects including cloud, AI-ML, and web apps' }
+    { icon: assets.project_icon, iconDark: assets.project_icon_dark, title: 'Projects', description: 'Developed 4+ major projects including cloud, AI/ML, and web applications' }
 ];
 
 export const toolsData = [
